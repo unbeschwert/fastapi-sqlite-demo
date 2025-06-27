@@ -1,11 +1,14 @@
-# Introduction
-This was a coding exercise for an interview. 
+
+## 🚀 Project Overview
+This is a simple backend application built with **FastAPI** and **SQLite**, showcasing a basic API structure with modern Python web development tools. The project demonstrates how to build lightweight RESTful APIs with FastAPI, perform CRUD operations, and interact with a relational database.
+
+It serves as a foundational template for small-scale applications, prototypes, or learning purposes.
 
 # Installation
 1. Execute the following code:
     ```
-    git clone https://github.com/unbeschwert/backend-exercise-I.git backend
-    cd backend
+    git clone https://github.com/unbeschwert/fastapi-sqlite-demo.git demo
+    cd demo
     python3 -m venv VirtualEnv
     source VirtualEnv/bin/activate
     pip install -r requirements.txt
